@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens:</strong> Shellscript, Python, C, PHP e JS
+   <strong>Linguagens:</strong> Shellscript, Python, C, PHP e JS
 </p>
 
 <p align="left">
@@ -37,17 +37,6 @@
 - 🌱 &nbsp;Aprendendo mais sobre **Engenharia Reversa de Software**.
 
 <h3>Minhas Skills</h3>
-
-**Aplicações e dados**
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilidades**
 
