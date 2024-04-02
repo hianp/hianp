@@ -33,7 +33,7 @@
 
 - 🤔   Explorando novas tecnologias e desenvolvendo soluções.
 - 🎓   Pós graduando em **CyberSecurity**.
-- 💼   Trabalhando como **Segurança da Informação**
+- 💼   Trabalhando como **Analista de Segurança da Informação**
 - 🌱 &nbsp;Aprendendo mais sobre **Engenharia Reversa de Software**.
 
 <h3>Minhas Skills</h3>
