@@ -1,69 +1,80 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left"> 
-  Olá, me chamo Hian, trabalho com <strong>Segurança da informação</strong> e esse é o meu repositório.<br>
-  
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Hian Lima — Security Research, AppSec, Recon Engineering, Malware Analysis and Reverse Engineering" width="100%">
 </p>
 
-<p align="left">
-   <strong>Linguagens:</strong> Shellscript, Python, C, PHP e JS
+<p align="center">
+  <code>INFOSEC ANALYST</code>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <code>SECURITY RESEARCH</code>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <code>BRASÍLIA, BRAZIL</code>
 </p>
 
-<p align="left">
-  💼 <strong>Ferramentas:</strong> VMWare, VBox, VSCode, x64dbg, IDA PRO, HxD, Pestudio, OllyDBG, Insomnia, Linux Server e Windows Server
+<p align="center">
+  <a href="https://www.linkedin.com/in/hian-lima/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0F0D?style=flat-square&logo=linkedin&logoColor=00FF88" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/hianp?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-0A0F0D?style=flat-square&logo=github&logoColor=00FF88" alt="GitHub repositories">
+  </a>
 </p>
 
-<p align="left">
-  💌 Conheça meu LinkedIn ou entre em contato: ⤵️
+## `> whoami`
+
+Information Security Analyst working at the intersection of **application security**, **investigative analysis**, and **automation**.
+
+I build systems to discover attack surfaces, structure evidence, and turn technical study into reproducible research. My current work and studies connect AppSec and recon engineering with a long-term specialization in malware analysis, reverse engineering, and Windows internals.
+
+```text
+CURRENT   AppSec · Web Security · Recon Engineering
+DEEPENING Malware Analysis · Reverse Engineering · Windows Internals
+BUILDING  Research systems · Technical labs · Reproducible knowledge
+TARGET    High-value security research · Tools · Write-ups
+```
+
+## `> active_operations`
+
+### MARE — Malware Analysis & Reverse Engineering
+
+A private learning and research environment designed around objectives, theory, practical labs, assessments, and evidence of progression. The goal is not to collect content; it is to build operational capability in malware analysis and reverse engineering.
+
+`malware analysis` `reverse engineering` `x86/x64` `Windows internals` `Ghidra` `IDA` `x64dbg`
+
+### Recon Platform
+
+A PostgreSQL-backed reconnaissance system built to preserve the history and context that loose tool output normally loses: runs, hosts, DNS observations, IP relationships, ports, HTTP evidence, findings, signals, and scoring.
+
+`Python` `Shell` `PostgreSQL` `Docker` `DNS` `HTTP` `attack surface mapping`
+
+### AppSec & Bug Bounty Research
+
+Evidence-driven vulnerability research in authorized scopes, combining low-noise reconnaissance, application behavior analysis, structured triage, and reproducible reporting.
+
+`web security` `recon` `vulnerability research` `evidence collection` `reporting`
+
+## `> capability_matrix`
+
+| Domain | Working set |
+|---|---|
+| **Offensive discovery** | Web Security, HTTP, DNS, reconnaissance, attack-surface mapping |
+| **Malware & RE** | PE analysis, static and dynamic analysis, Ghidra, IDA, x64dbg, x86/x64 |
+| **Engineering** | Python, Shell, C, PostgreSQL, Docker, Linux |
+| **Investigation** | Evidence collection, behavioral analysis, fraud analysis, technical reporting |
+| **Systems thinking** | Pipelines, data modeling, automation, knowledge architecture |
+
+## `> operating_principles`
+
+```text
+evidence        > assumptions
+reproducibility > screenshots
+systems         > disconnected tools
+depth           > badge collecting
+```
+
+I am interested in work that produces durable technical assets: research, tooling, datasets, write-ups, detection knowledge, and systems that make the next investigation better than the previous one.
+
+## `> contact`
+
+The best public channel to reach me is [LinkedIn](https://www.linkedin.com/in/hian-lima/). You can also explore my [public repositories](https://github.com/hianp?tab=repositories) and follow the artifacts as they are released.
+
+<p align="center">
+  <sub>Research performed in controlled environments and authorized scopes.</sub>
 </p>
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a
-</p>
-
-
-
-
-
-<h3>Sobre mim</h3>
-
-- 🤔   Explorando novas tecnologias e desenvolvendo soluções.
-- 🎓   Pós graduando em **CyberSecurity**.
-- 💼   Trabalhando como **Analista de Segurança da Informação**
-- 🌱 &nbsp;Aprendendo mais sobre **Engenharia Reversa de Software**.
-
-<h3>Minhas Skills</h3>
-
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/hianp" title="Perfil do Hian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hianp&theme=dracula&show_icons=true" />
-</a>
-
-<h3>Onde me encontrar</h3>
-
-[![Linkedin](https://img.shields.io/badge/-Hian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hian-lima/)](https://www.linkedin.com/in/hian-lima/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/hianp?label=follow&style=social)](LINK-DO-SEU-GITHUB)
